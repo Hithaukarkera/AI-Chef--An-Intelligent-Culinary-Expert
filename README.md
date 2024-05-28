@@ -32,7 +32,9 @@ The project is organized as follows:
   - **first_screen**: Folder for starting the app
   - **Untitled.py**: Folder for running the inverse cooking method
   - **second_screen.py**: File to run the desktop app
-
+- **dataset**: Folder to store the Food101 dataset
+- **Download link**: [Food101 Dataset](https://www.kaggle.com/datasets/dansbecker/food-101)
+  
 ## Usage
 
 Follow these steps to use AI Chef:
