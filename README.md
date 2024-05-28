@@ -27,3 +27,11 @@ You can install these dependencies using `pip`:
 
 ```sh
 pip install numpy==1.22.4 pandas==1.5.3 matplotlib==3.7.1 tensorflow==2.11.0 Pillow==9.5.0 keras==3.3.3
+
+## Project Structure
+
+- **ai chef**: Main folder
+  - **app.py**: Folder for recipe generator
+  - **first_screen**: Folder for starting the app
+  - **Untitled.py**: Folder for running the inverse cooking method
+- **second_screen.py**: File to run the desktop app
