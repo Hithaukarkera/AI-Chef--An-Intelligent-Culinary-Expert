@@ -41,6 +41,3 @@ Follow these steps to use AI Chef:
 
    ```sh
    git clone https://github.com/your-username/ai-chef.git
-
-
-
