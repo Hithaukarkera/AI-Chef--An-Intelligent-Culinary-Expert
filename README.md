@@ -33,6 +33,14 @@ The project is organized as follows:
   - **Untitled.py**: Folder for running the inverse cooking method
   - **second_screen.py**: File to run the desktop app
 
+## Usage
+
+Follow these steps to use AI Chef:
+
+1. **Clone the Repository**: Clone the AI Chef repository to your local machine.
+
+   ```sh
+   git clone https://github.com/your-username/ai-chef.git
 
 
 
