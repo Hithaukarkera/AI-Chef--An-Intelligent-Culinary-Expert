@@ -23,15 +23,18 @@ Before running AI Chef, ensure you have the following dependencies installed:
 - `tkinter` (This is usually included with Python installations, but ensure it is available)
 - `keras==3.3.3`
 
-##Project Structure
+## Project Structure
+
+# Project Structure
 
 The project is organized as follows:
 
-ai_chef: Main folder
-app.py: Folder for the recipe generator
-first_screen: Folder for starting the app
-Untitled.py: Folder for running the inverse cooking method
-second_screen.py: File to run the desktop app
+- **ai_chef**: Main folder
+  - **app.py**: Folder for the recipe generator
+  - **first_screen**: Folder for starting the app
+  - **Untitled.py**: Folder for running the inverse cooking method
+  - **second_screen.py**: File to run the desktop app
+
 
 
 
