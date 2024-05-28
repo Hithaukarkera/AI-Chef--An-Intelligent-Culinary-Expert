@@ -23,15 +23,15 @@ Before running AI Chef, ensure you have the following dependencies installed:
 - `tkinter` (This is usually included with Python installations, but ensure it is available)
 - `keras==3.3.3`
 
-You can install these dependencies using `pip`:
+##Project Structure
 
-```sh
-pip install numpy==1.22.4 pandas==1.5.3 matplotlib==3.7.1 tensorflow==2.11.0 Pillow==9.5.0 keras==3.3.3
+The project is organized as follows:
 
-## Project Structure
+ai_chef: Main folder
+app.py: Folder for the recipe generator
+first_screen: Folder for starting the app
+Untitled.py: Folder for running the inverse cooking method
+second_screen.py: File to run the desktop app
 
-- **ai chef**: Main folder
-  - **app.py**: Folder for recipe generator
-  - **first_screen**: Folder for starting the app
-  - **Untitled.py**: Folder for running the inverse cooking method
-- **second_screen.py**: File to run the desktop app
+
+
