@@ -25,8 +25,6 @@ Before running AI Chef, ensure you have the following dependencies installed:
 
 ## Project Structure
 
-# Project Structure
-
 The project is organized as follows:
 
 - **ai_chef**: Main folder
