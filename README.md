@@ -34,7 +34,7 @@ The project is organized as follows:
   - **second_screen.py**: File to run the desktop app
 - **dataset**: Folder to store the Food101 dataset
 - **Download link**: [Food101 Dataset](https://www.kaggle.com/datasets/dansbecker/food-101)
-- **Training Model**: For training the model use **Traning.ipynb** file.  
+- **Training Dataset**: For training the model use **Traning.ipynb** file.  
 ## Usage
 
 Follow these steps to use AI Chef:
